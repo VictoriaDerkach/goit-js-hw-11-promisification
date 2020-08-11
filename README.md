@@ -94,4 +94,4 @@ npm run deploy
 страницу можно будет посмотреть по адресу указанному в отредактированном
 свойстве `homepage`.
 # goit-js-hw-11-promisification
-# goit-js-hw-11-promisification
+
